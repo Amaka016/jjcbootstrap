@@ -1,0 +1,123 @@
+.hag{
+    border: 1px solid white;
+}
+
+.mome{
+    border-radius: 100%;
+    background-color: rgb(31, 179, 228);
+    width: 4em;
+    height: 4em;
+    /* margin-right: 1.5em; */
+    border: none;
+    /* margin-left: 16em; */
+}
+
+.gone{
+    margin-left: 12em;
+}
+
+.line{
+    border: 1px solid;
+    width: 75em;
+    /* margin-left: 6em; */
+   
+}
+
+.blog{
+    margin-left: 3.5em;
+    position: absolute;
+}
+
+@media(max-width: 576px){
+    .line{
+        width: 90%;
+    }
+    .gone{
+        margin-left: 2em;
+    }
+    .long{
+        padding-left: 1em;
+    }
+    
+    .free{
+        margin-right: 18em;
+        text-align: center;
+        justify-content: center;
+    }
+    
+} 
+
+.free{
+    margin-left: 15.5em;
+}
+
+.fly{
+    margin-left: 24em;
+}
+
+.flyn{
+    margin-left: 32em;
+    border-radius: 7%;
+    
+}
+
+.wor{
+    border-left: none;
+}
+
+.tor{
+    border-right: none;
+}
+
+.wortor{
+    border-right: none;
+    border-left: none;
+    width: 2em;
+}
+
+.sub-third-container{
+    margin-left: 5.3em;
+}
+
+.momen{
+    border-radius: 10%;
+    background-color: rgb(15, 177, 231);
+    width: 2em;
+    height: 2em;
+    color: white;
+    border: none;
+}
+
+.moment{
+    border-radius: 10%;
+    background-color:red;
+    width: 2em;
+    height: 2em;
+    color: white;
+    border: none;
+}
+
+.yoyo{
+   width: 2em;
+   margin-right: 0;
+}
+
+.word{
+    border: none;
+    outline: none;
+    width: 10em;
+    
+}
+
+
+
+.san{
+    width: 63.9%;
+    margin-left: 3.6em;
+}
+/* @media(min-width: 576px){
+    .long{
+       text-align: center;
+    }
+
+}  */
